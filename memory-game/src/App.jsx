@@ -80,7 +80,7 @@ function App() {
   console.log(cards);
   return (
     <div className="App">
-      <h1>Memory Game</h1>
+      <h1>Memory Game ...</h1>
       <button onClick={suffledCard}>New Game</button>
       <select onChange={updateLevel}>
         <option value="small">small</option>
